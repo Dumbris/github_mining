@@ -56,3 +56,7 @@ https://www.insight-centre.org/sites/default/files/publications/2016sac.pdf -Mea
 == Interesting events on github
 
 https://github.com/PowerShell/PowerShell/pull/1901#issuecomment-240840910
+
+== Topic modeling for awesome repos
+1) 3-gram bow + knn https://pythonhosted.org/ngram/tutorial.html
+2) hLDA
