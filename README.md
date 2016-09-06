@@ -65,3 +65,11 @@ https://github.com/PowerShell/PowerShell/pull/1901#issuecomment-240840910
 == Topic modeling for awesome repos
 1) 3-gram bow + knn https://pythonhosted.org/ngram/tutorial.html
 2) hLDA
+
+== TODO
+1) Try BigARTM
+https://github.com/bigartm/bigartm/issues/428
+
+2) Save parsed graph into format compatible with Gephi, explore data with Gephi
+
+3) Feature engeering for repos - predict stars_count as example
