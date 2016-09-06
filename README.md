@@ -14,6 +14,9 @@ http://help.sentiment140.com/for-students/ - sentiment analysis for twitter
 
 http://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf - node2vec
 
+https://scholar.google.com/scholar?hl=en&q=github&btnG=&as_sdt=1%2C32&as_sdtp=
+Search in Google scholar
+
 
 
 == Source Code
@@ -28,6 +31,8 @@ https://medium.com/google-cloud/analyzing-github-issues-and-comments-with-bigque
 
 http://stackoverflow.com/questions/tagged/github-archive
 https://www.igvita.com/slides/2012/bigquery-github-strata.pdf
+
+Search through source codehttps://medium.com/google-cloud/github-on-bigquery-analyze-all-the-code-b3576fd2b150#.lt4fg7i5i 
 
 
 == Ideas
